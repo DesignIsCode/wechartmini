@@ -1,0 +1,7 @@
+com\lexy\wechartmini\WechartminiApplication.class
+com\lexy\wechartmini\controller\WeChatLoginController.class
+com\lexy\wechartmini\utils\WxUtils.class
+com\lexy\wechartmini\entities\WeChatUserInfo.class
+com\lexy\wechartmini\controller\UserController.class
+com\lexy\wechartmini\ServletInitializer.class
+com\lexy\wechartmini\entities\User.class
