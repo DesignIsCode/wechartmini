@@ -2,172 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58eae20c-5a89-4701-97d9-93a6c2a9a7c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/wechartmini_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/wechartmini_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_spring_boot_starter_1_1_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_62.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_11_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_48.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_39.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_39.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_39.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_39.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_39.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_39.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_2_6_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk16_1_46.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_6_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_20_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_20_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_1_5_20_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_20_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_20_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_20_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_1_5_20_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_20_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_20_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_20_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_20_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_20_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_4_2_12_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_4_2_12_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_4_2_12_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_23_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_23_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_23_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_23_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_23_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_23_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_23_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_23_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_23_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_23_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lexy/wechatmini/ServletInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lexy/wechatmini/WechartminiApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lexy/wechatmini/controller/SecurityController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lexy/wechatmini/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lexy/wechatmini/controller/WeChatLoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lexy/wechatmini/entities/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lexy/wechatmini/entities/WeChatUserInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lexy/wechatmini/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lexy/wechatmini/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lexy/wechatmini/service/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lexy/wechatmini/utils/WxUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis/mapper/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis/mybatis.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lexy/wechatmini/WechartminiApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lexy/wechatmini/WxUtilsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/wechartmini.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/lexy/wechatmini/ServletInitializer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/lexy/wechatmini/WechartminiApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/lexy/wechatmini/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/lexy/wechatmini/controller/WeChatLoginController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/lexy/wechatmini/entities/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/lexy/wechatmini/entities/WeChatUserInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/lexy/wechatmini/mapper/UserMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/lexy/wechatmini/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/lexy/wechatmini/service/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/lexy/wechatmini/utils/WxUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mybatis/mapper/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mybatis/mybatis.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/wechartmini.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/lexy/wechatmini/WechartminiApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/lexy/wechatmini/WxUtilsTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/wechatmini.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/wechatmini.war.original" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/wechatmini/WEB-INF/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/wechatmini/WEB-INF/classes/com/lexy/wechartmini/ServletInitializer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/wechatmini/WEB-INF/classes/com/lexy/wechartmini/WechartminiApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/wechatmini/WEB-INF/classes/com/lexy/wechartmini/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/wechatmini/WEB-INF/classes/com/lexy/wechartmini/controller/WeChatLoginController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/wechatmini/WEB-INF/classes/com/lexy/wechartmini/entities/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/wechatmini/WEB-INF/classes/com/lexy/wechartmini/entities/WeChatUserInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/wechatmini/WEB-INF/classes/com/lexy/wechartmini/utils/WxUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/wechatmini/WEB-INF/lib/bcprov-jdk16-1.46.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/wechatmini/WEB-INF/lib/classmate-1.3.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/wechatmini/WEB-INF/lib/commons-codec-1.10.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/wechatmini/WEB-INF/lib/fastjson-1.2.62.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/wechatmini/WEB-INF/lib/hibernate-validator-5.3.6.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/wechatmini/WEB-INF/lib/httpclient-4.5.11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/wechatmini/WEB-INF/lib/httpcore-4.4.11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/wechatmini/WEB-INF/lib/jackson-annotations-2.8.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/wechatmini/WEB-INF/lib/jackson-core-2.8.11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/wechatmini/WEB-INF/lib/jackson-databind-2.8.11.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/wechatmini/WEB-INF/lib/jboss-logging-3.3.2.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/wechatmini/WEB-INF/lib/jcl-over-slf4j-1.7.26.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/wechatmini/WEB-INF/lib/jul-to-slf4j-1.7.26.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/wechatmini/WEB-INF/lib/log4j-over-slf4j-1.7.26.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/wechatmini/WEB-INF/lib/logback-classic-1.1.11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/wechatmini/WEB-INF/lib/logback-core-1.1.11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/wechatmini/WEB-INF/lib/slf4j-api-1.7.26.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/wechatmini/WEB-INF/lib/snakeyaml-1.17.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/wechatmini/WEB-INF/lib/spring-aop-4.3.23.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/wechatmini/WEB-INF/lib/spring-beans-4.3.23.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/wechatmini/WEB-INF/lib/spring-boot-1.5.20.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/wechatmini/WEB-INF/lib/spring-boot-autoconfigure-1.5.20.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/wechatmini/WEB-INF/lib/spring-boot-starter-1.5.20.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/wechatmini/WEB-INF/lib/spring-boot-starter-logging-1.5.20.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/wechatmini/WEB-INF/lib/spring-boot-starter-web-1.5.20.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/wechatmini/WEB-INF/lib/spring-context-4.3.23.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/wechatmini/WEB-INF/lib/spring-core-4.3.23.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/wechatmini/WEB-INF/lib/spring-expression-4.3.23.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/wechatmini/WEB-INF/lib/spring-web-4.3.23.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/wechatmini/WEB-INF/lib/spring-webmvc-4.3.23.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/wechatmini/WEB-INF/lib/validation-api-1.1.0.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechartmini.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lexy/wechatmini/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lexy/wechatmini/entities/SecurityUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/wechartmini_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/wechartmini_war.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/wechartmini_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/wechartmini_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lexy/wechatmini/controller/SecurityController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lexy/wechatmini/controller/SecurityController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechartmini.iml" beforeDir="false" afterPath="$PROJECT_DIR$/wechartmini.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,6 +24,7 @@
       <list>
         <option value="FxmlFile" />
         <option value="Interface" />
+        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
@@ -207,6 +53,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelOrder2" value="2" />
@@ -297,7 +144,8 @@
       <workItem from="1583461016721" duration="386000" />
       <workItem from="1583461414365" duration="2703000" />
       <workItem from="1583573197080" duration="164000" />
-      <workItem from="1583723396348" duration="2037000" />
+      <workItem from="1583723396348" duration="4233000" />
+      <workItem from="1583736543505" duration="8176000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1583488271825</created>
@@ -306,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583488271825</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1">
+      <created>1583732482237</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583732482237</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -320,67 +175,71 @@
     <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1583308840404">
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1583745303361">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1583308840404" />
-    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1583488270366">
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1583745303361" />
+    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1583745749074">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583488270366" />
+    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583745749074" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1583732092513">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583732092513" />
-    <state x="546" y="255" key="Github.ShareDialog" timestamp="1583460953439">
+    <state x="546" y="255" width="273" height="291" key="Github.ShareDialog" timestamp="1583735056219">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="546" y="255" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1583460953439" />
+    <state x="546" y="255" width="273" height="291" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1583735056219" />
     <state x="437" y="69" key="Github.UntrackedFilesDialog" timestamp="1583460711736">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="437" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1583460711736" />
-    <state width="1323" height="319" key="GridCell.Tab.0.bottom" timestamp="1583371008635">
+    <state width="1323" height="377" key="GridCell.Tab.0.bottom" timestamp="1583744048660">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="319" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583371008635" />
-    <state width="1323" height="319" key="GridCell.Tab.0.center" timestamp="1583371008635">
+    <state width="1323" height="377" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583744048660" />
+    <state width="1323" height="377" key="GridCell.Tab.0.center" timestamp="1583744048660">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="319" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583371008635" />
-    <state width="1323" height="319" key="GridCell.Tab.0.left" timestamp="1583371008635">
+    <state width="1323" height="377" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583744048660" />
+    <state width="1323" height="377" key="GridCell.Tab.0.left" timestamp="1583744048660">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="319" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583371008635" />
-    <state width="1323" height="319" key="GridCell.Tab.0.right" timestamp="1583371008635">
+    <state width="1323" height="377" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583744048660" />
+    <state width="1323" height="377" key="GridCell.Tab.0.right" timestamp="1583744048660">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="319" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583371008635" />
-    <state width="1323" height="263" key="GridCell.Tab.1.bottom" timestamp="1583371008626">
+    <state width="1323" height="377" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583744048660" />
+    <state width="1323" height="377" key="GridCell.Tab.1.bottom" timestamp="1583744048662">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="263" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583371008626" />
-    <state width="1323" height="263" key="GridCell.Tab.1.center" timestamp="1583371008626">
+    <state width="1323" height="377" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583744048662" />
+    <state width="1323" height="377" key="GridCell.Tab.1.center" timestamp="1583744048661">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="263" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1583371008626" />
-    <state width="1323" height="263" key="GridCell.Tab.1.left" timestamp="1583371008626">
+    <state width="1323" height="377" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1583744048661" />
+    <state width="1323" height="377" key="GridCell.Tab.1.left" timestamp="1583744048661">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="263" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1583371008626" />
-    <state width="1323" height="263" key="GridCell.Tab.1.right" timestamp="1583371008626">
+    <state width="1323" height="377" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1583744048661" />
+    <state width="1323" height="377" key="GridCell.Tab.1.right" timestamp="1583744048661">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="263" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1583371008626" />
-    <state x="136" y="0" width="998" height="728" key="SettingsEditor" timestamp="1583731936127">
+    <state width="1323" height="377" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1583744048661" />
+    <state x="136" y="0" width="998" height="728" key="SettingsEditor" timestamp="1583733275813">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="136" y="0" width="998" height="728" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583731936127" />
-    <state x="363" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1583723406785">
+    <state x="136" y="0" width="998" height="728" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583733275813" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1583735144865">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1583735144865" />
+    <state x="363" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1583736738771">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="340" y="254" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1582872918451" />
-    <state x="363" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583723406785" />
+    <state x="363" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583736738771" />
     <state x="475" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583572567572">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

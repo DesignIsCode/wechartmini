@@ -7,7 +7,7 @@
         <packaging>war</packaging>
       </options>
     </properties>
-    <root id="archive" name="wechatmini.war">
+    <root id="archive" name="wechartmini.war">
       <element id="artifact" artifact-name="wechartmini:war exploded" />
     </root>
   </artifact>
